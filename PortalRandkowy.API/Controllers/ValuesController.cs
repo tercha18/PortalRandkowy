@@ -14,7 +14,7 @@ namespace PortalRandkowy.API.Controllers
         [HttpGet]
         public ActionResult<IEnumerable<string>> Get()
         {
-            return new string[] { "elo", "dddd" };
+            return new string[] { "elo", "xxx" };
         }
 
         // GET api/values/5
